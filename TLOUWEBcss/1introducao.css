@@ -1,19 +1,89 @@
 body {
-margin: 0;
-font-family: Arial, sans-serif;
-background: #5D5D5D;
-color: #C7B89B;
+    margin: 0;
+    font-family: Arial, sans-serif;
+    background: #2E4300;
+    color: #D6C7A8;
+}
+
+body {
+    background-image: url("https://images7.alphacoders.com/132/thumbbig-1326068.webp");
+    background-repeat: no-repeat;
+    background-size: cover;    
+}
+
+header {
+    background: #8A4131;
+    padding: 20px;
+    text-align: center;
+}
+
+header h1 {
+    margin: 0;
+    font-size: 30px;
+    letter-spacing: 1px;
+}
+
+nav {
+    margin-top: 10px;
+}
+
+nav a {
+    color: #D6C7A8;
+    text-decoration: none;
+    font-size: 18px;
+    margin: 0 10px;
+    padding: 4px 8px;
+    transition: 0.3s;
+}
+
+nav a:hover {
+    color: #ffffff;
+    background: #8B4B3A;
+    border-radius: 5px;
+}
+
+.container {
+    max-width: 850px;
+    margin: 0 auto;
+    padding: 25px;
+}
+
+.introducao h2 {
+    font-size: 28px;
+    margin-bottom: 15px;
+    border-left: 4px solid #8B4B3A;
+    padding-left: 12px;
+}
+
+.introducao p {
+    line-height: 1.6;
+    font-size: 17px;
+    color: #efefef;
+    margin-bottom: 18px;
+}
+
+.imagem {
+    text-align: center;
+    margin: 30px 0;
+}
+
+.imagem img {    
+width: 60%;
+max-width: 300px;
+border-radius: 12px;
+box-shadow: 0 0 20px rgba(0,0,0,0.6);
+margin-bottom: 20px;
 }
 
 
-header {
-background: #8A4131;
-padding: 16px;
-text-align: center;
-font-size: 24px;
-font-weight: bold;
-letter-spacing: 1px;
-border-bottom: 2px solid #2c2c2c;
+
+footer {
+    text-align: center;
+    padding: 18px;
+    margin-top: 40px;
+    background: #1f1f1f;
+    font-size: 14px;
+    color: #aaa;
 }
 
 

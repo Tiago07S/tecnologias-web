@@ -1,8 +1,14 @@
 body {
 margin: 0;
 font-family: Arial, sans-serif;
-background: #5D5D5D;
+background: #2E4300;
 color: #C7B89B;
+}
+
+body {
+    background-image: url("https://images7.alphacoders.com/132/thumbbig-1326068.webp");
+    background-repeat: no-repeat;
+    background-size: cover;
 }
 
 
@@ -51,12 +57,3 @@ line-height: 1.6;
 color: #e0e0e0;
 }
 
-
-footer {
-text-align: center;
-padding: 20px;
-margin-top: 30px;
-background: #1a1a1a;
-font-size: 14px;
-color: #aaa;
-}

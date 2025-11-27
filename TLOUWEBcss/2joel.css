@@ -1,0 +1,58 @@
+body {
+margin: 0;
+font-family: Arial, sans-serif;
+background: #2E4300;
+color: #C7B89B;
+}
+
+body {
+    background-image: url("https://images7.alphacoders.com/132/thumbbig-1326068.webp");
+    background-repeat: no-repeat;
+    background-size: cover;
+}
+
+header {
+background: #8A4131;
+padding: 16px;
+text-align: center;
+font-size: 24px;
+font-weight: bold;
+letter-spacing: 1px;
+}
+
+
+.personagem {
+text-align: center;
+padding: 30px;
+}
+
+
+.personagem img {
+width: 60%;
+max-width: 300px;
+border-radius: 12px;
+box-shadow: 0 0 20px rgba(0,0,0,0.6);
+margin-bottom: 20px;
+}
+
+
+.container {
+max-width: 800px;
+margin: 0 auto;
+padding: 20px;
+}
+
+
+h2 {
+font-size: 26px;
+margin-bottom: 10px;
+border-left: 4px solid #bb2d2d;
+padding-left: 10px;
+}
+
+
+p {
+line-height: 1.6;
+color: #e0e0e0;
+}
+

@@ -1,0 +1,57 @@
+body {
+    margin: 0;
+    font-family: Arial, sans-serif;
+    background: #5D5D5D;
+    color: #C7B89B;
+}
+
+body {
+    background-image: url("https://images7.alphacoders.com/132/thumbbig-1326068.webp");
+    background-repeat: no-repeat;
+    background-size: cover;
+}
+
+header {
+    background: #8A4131;
+    padding: 16px;
+    text-align: center;
+    font-size: 26px;
+    font-weight: bold;
+    letter-spacing: 1px;
+    color: #f0e6d2;
+}
+
+.personagem {
+    text-align: center;
+    padding: 30px;
+}
+
+.personagem img {
+    width: 60%;
+    max-width: 320px;
+    border-radius: 12px;
+    box-shadow: 0 0 20px rgba(0,0,0,0.6);
+    margin-bottom: 20px;
+}
+
+.container {
+    max-width: 850px;
+    margin: 0 auto;
+    padding: 20px;
+}
+
+h2 {
+    font-size: 26px;
+    margin-bottom: 10px;
+    border-left: 4px solid #bb2d2d;
+    padding-left: 10px;
+    color: #e6d6c0;
+}
+
+p {
+    line-height: 1.6;
+    font-size: 17px;
+    color: #e0e0e0;
+    margin-bottom: 18px;
+}
+

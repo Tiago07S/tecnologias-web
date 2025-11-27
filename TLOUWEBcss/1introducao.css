@@ -1,0 +1,19 @@
+body {
+margin: 0;
+font-family: Arial, sans-serif;
+background: #5D5D5D;
+color: #C7B89B;
+}
+
+
+header {
+background: #8A4131;
+padding: 16px;
+text-align: center;
+font-size: 24px;
+font-weight: bold;
+letter-spacing: 1px;
+border-bottom: 2px solid #2c2c2c;
+}
+
+
